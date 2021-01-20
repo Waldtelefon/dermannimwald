@@ -143,9 +143,9 @@
                                 <div class="card-body " id="comment-section">
                                     <form action="/comment" method="post" class="needs-validation" novalidate>
                                         <% for (const comment of comments) { %>
-                                        <div class="textColor border border-success border-2 rounded-2 my-2 p-2 fs-3">
-                                            <p><%= comment.comment%></p>
-                                        </div>
+                                            <div class="textColor border border-success border-2 rounded-2 my-2 p-2 fs-3">
+                                                <p><%= comment.comment %></p>
+                                            </div>
                                         <% } %>
 
                                         <label for="input"

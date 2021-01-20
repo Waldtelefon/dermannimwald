@@ -1,8 +1,8 @@
 /**
  *Description of comment
- *@author Matteo Mahler
+ *@author Gergö Dusza
  *@version 1.0
- *@since 08.12.2020
+ *@since 20.01.2021
  */
 
 const mongoose = require('mongoose');

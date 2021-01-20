@@ -1,8 +1,8 @@
 /**
  *Description of video
- *@author Matteo Mahler
+ *@author Gergö Dusza
  *@version 1.0
- *@since 23.12.2020s
+ *@since 20.01.2021
  */
 
 const express = require("express");
